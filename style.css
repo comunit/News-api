@@ -1,0 +1,33 @@
+img {
+  width: 100%
+}
+
+body h4 {
+  font-family: 'HelveticaNeueLTPro-Bd',Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+a.card-link {
+  color: white;
+}
+
+body a {
+  color: black;
+}
+
+.clear:nth-child(odd) {
+  clear: both;
+}
+.clear {
+  margin-bottom: 16px;
+}
+
+.card {
+  background: #337ab7;
+  padding: 8px;
+}
+
+.space {
+  margin: 5px;
+}
