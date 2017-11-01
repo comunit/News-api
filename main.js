@@ -55,7 +55,7 @@ function fetchnews() {
     for (var i = 0; i < title.length; i++) {
       output +=
       `
-      <div class="col-xs-6 col-sm-6 col-md-6 clear">
+      <div class="col-xs-12 col-sm-6 col-md-6 clear">
         <div class="card">
           <div class="card-body">
               <img src=${title[i].urlToImage} alt="">

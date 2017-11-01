@@ -31,3 +31,8 @@ body a {
 .space {
   margin: 5px;
 }
+
+.footer {
+  padding: 10px;
+  font-size: 18px;
+}
